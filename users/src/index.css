@@ -1,0 +1,15 @@
+@import url('./blocks/popup/popup.css');
+@import url('./blocks/popup/_is-opened/popup_is-opened.css');
+@import url('./blocks/auth-form/auth-form.css');
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
